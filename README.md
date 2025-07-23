@@ -2,10 +2,6 @@
 # ChatRoom – Real-Time Chat Application
 
 
-
-
-![Banner](https://github.com/MilakeSuraj/Tic_Tac_Toe_Game/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
-
 ---
 
 ## Project Overview
