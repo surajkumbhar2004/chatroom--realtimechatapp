@@ -1,7 +1,7 @@
 
 # ChatRoom – Real-Time Chat Application
 
-![Banner](https://img.shields.io/badge/Chatoon-Powered%20by%20Firebase-blueviolet?style=for-the-badge)
+
 
 
 ![Banner](https://github.com/MilakeSuraj/Tic_Tac_Toe_Game/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
